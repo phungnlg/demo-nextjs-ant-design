@@ -237,7 +237,7 @@ Any of testing activities and reports goes here.
   
 If you haven't done so already, please check out [Get Help](#get-help) for the fastest possible help on your issue. Alternatively you can get in touch with me by:
 
-- Email: phungnlg0810@gmail.com
+- Email: phungnlg@gmail.com
   
 <br/>
 
